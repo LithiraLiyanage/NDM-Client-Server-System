@@ -28,13 +28,17 @@
 > A **real-world networking system simulation** combining DNS, Mail Servers, and Socket Programming.
 
 ✨ Fully functional **Authoritative DNS Server (BIND)**
+
 ✨ Forward & Reverse DNS resolution
+
 ✨ TCP Client-Server system using **C sockets**
+
 ✨ Mail server setup with **Postfix + Dovecot**
+
 ✨ Real-time connection logging system
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="600"/>
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Networking%20System&width=800&height=200" />
 </div>
 
 ---
