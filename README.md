@@ -142,8 +142,8 @@ dig -x 23.74.33.10
 
 ## 👨‍💻 Author
 
-**Kalindu Methmuditha**
-🎓 Software Engineering Student
+**Lithira Liyanage**
+🎓 Information Technology Student
 
 
 ---
