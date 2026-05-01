@@ -33,6 +33,10 @@
 ✨ Mail server setup with **Postfix + Dovecot**
 ✨ Real-time connection logging system
 
+<div align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600"/>
+</div>
+
 ---
 
 ## 🧩 System Architecture (Visual)
