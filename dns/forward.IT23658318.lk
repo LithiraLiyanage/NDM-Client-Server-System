@@ -1,0 +1,21 @@
+$TTL 86400
+@   IN  SOA     Lithira8318.IT23658318.lk. root.IT23658318.lk. (
+        2026040301 ; Serial
+        3600       ; Refresh
+        1800       ; Retry
+        604800     ; Expire
+        86400     ; Minimum TTL
+)
+; Nameserver
+@       IN  NS      Lithira8318.IT23658318.lk.
+
+@       IN  A       23.65.83.10
+
+@       IN  A       23.65.83.20
+
+@       IN  MX      10 mail.II2368318.lk.
+; Your hosts
+mail                 IN  A       23.65.83.10
+Lithira8318          IN  A       23.65.83.10
+Lithira8318cli       IN  A       23.65.83.20
+                                            
