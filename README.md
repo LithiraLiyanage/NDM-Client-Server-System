@@ -3,8 +3,6 @@
 </div>
 <div align="center">
 
-# 🌐 DNS & Client-Server System
-
 ### 🚀 Advanced Linux Networking Project
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=800&center=true&vCenter=true&width=900&lines=Authoritative+DNS+Server+(BIND);Forward+%26+Reverse+DNS+Resolution;TCP+Client-Server+System+in+C;Mail+Server+(Postfix+%2B+Dovecot);Real-Time+Networking+Simulation" />
