@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Networking%20System&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DNS%20|%20Client-Server%20|%20Mail%20Infrastructure&descAlignY=60&descSize=18" />
+</div>
+<div align="center">
 
 # 🌐 DNS & Client-Server System
 
@@ -37,9 +40,6 @@
 
 ✨ Real-time connection logging system
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Networking%20System&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DNS%20|%20Client-Server%20|%20Mail%20Infrastructure&descAlignY=60&descSize=18" />
-</div>
 ---
 
 ## 🧩 System Architecture (Visual)
